@@ -1,0 +1,12 @@
+Logarithms 
+
+log (10) 100 -> How many 10's multiplied to get 100
+10 * 10 = 100, therefore log (10) 100 = 2
+
+The opposite of logarithms is exponents:
+1) 10 ^ 2 = 100 ~ log (10) 100 = 2
+2) 10^3 = 1000 ~ log (10) 1000 = 3
+3) 2 ^ 3 = 8 ~ log (2) 8 = 3
+4) 2 ^ 4 = 16 ~ log (2) 16 = 4
+5) 2 ^ 5 = 32 ~ log (2) 32 = 5
+6) 3 ^ 3  = 27 ~ log (3) 26 = 3
